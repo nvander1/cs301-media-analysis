@@ -9,3 +9,6 @@ Stallman supports his arguments with examples that are carefully tailored to his
 It is important to note that Stallman presents his views in a purely ethical context. In fact, Stallman believes that one should only mention free software as “an ethical issue.” (2011, para. 63). Stallman additionally claims that the term “open source” was coined by those unwilling to discuss the ethics of free software (2011, para. 52). Stallman also refuses to entertain any argument on the economics of open source, going as far as to say that it isn't important (2011, para. 34). 
 
 When talking about a digital society, Stallman draws his ethical truths about a digital society from a non-digital society. For example, in his section entitled “the war on sharing,” Stallman criticizes the Amazon kindle for its inability to lend books, asserting that the lending of books is an “important social act” (2011, para 98). Stallman maintains that the residents of a digital society must fight to maintain the basic freedoms and rights enjoyed by the non-digital society of the past.
+
+References
+Stallman, R. M. (2011). A Free Digital Society - What Makes Digital Inclusion Good or Bad? [Lecture transcript]. Retrieved from http://www.gnu.org/philosophy/free-digital-society.en.html
