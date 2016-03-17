@@ -34,4 +34,18 @@ that the number of medium and high severity vulnerabilities for OpenOffice may
 be substantially lower because patches for vulnerabilities were applied before
 the CVE editorial board tallied the numbers \cite{kadura}.
 
+Many security vulnerabilities do not depend at all on viewing the source code.
+In an attempt to gain access to user data, black-hat hackers can use a program
+that tries millions of passwords until one works. Many programs have ways of
+detecting this, so black-hats often employ  more clever approaches. With methods
+such as SQL injection and buffer overflow, one can find vulnerabilities by
+providing strange input to a program. If the program cannot handle the input,
+the program may have unexpected behavior that may give the hacker access he
+should not have.\cite[p. ~8-9]{clarke}.
 
+Even if a program can check for brute force attacks, or is designed to handle
+any format of input without failing, its developers can never account for
+a corrupt developer or administrator that works from the inside to take
+advantage of users' data. Humans are often the weakest link in software
+security. Otherwise, phishing, pharming, and other similar scams would not be
+effective.
